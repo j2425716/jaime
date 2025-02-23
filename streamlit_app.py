@@ -13,7 +13,7 @@ import base64
 # Constantes y configuración inicial
 FACTURAS_FILE = "facturas.json"
 FACTURAS_DIR = "facturas"
-ASSETS_DIR = "/assets"
+ASSETS_DIR = "assets"
 IGV_RATE = Decimal('0.18')
 
 # Asegurar que los directorios existen
